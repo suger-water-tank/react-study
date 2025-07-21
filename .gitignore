@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+# 把.env文件忽略掉
+.env
+.env.local
+.env.development
+.env.production
+
+# macOS
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
